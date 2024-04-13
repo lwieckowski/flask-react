@@ -1,0 +1,1 @@
+A small demo of how to serve a react app as a static site from flask.
